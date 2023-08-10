@@ -26,3 +26,5 @@ Runs a set of basic tests for the app.
   - Distinct countries must be available for user selection
   - On selecting a country, data must be filtered down to just the country
   - Search and Country selection must work together
+## Note:
+Api endppints are hardcoded at src/HondaWmi.jsx
